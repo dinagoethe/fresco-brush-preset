@@ -1,6 +1,6 @@
 hello, world!
 
-##blog
+## blog
 + [new blog post](content/blog/new-blog-post)
 
 ## code
